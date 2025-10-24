@@ -1047,7 +1047,7 @@
 #ad-block-left .surviv-shirts {
     background-image: linear-gradient(to top, rgba(43, 126, 143, 0.52), rgba(135, 138, 81, .52)),
     linear-gradient(to right, rgba(250, 245, 136, .11), rgba(93, 80, 60, .3)),
-  !important;
+    url("https://giffiles.alphacoders.com/218/218371.gif")!important;
     background-size: cover;
     background-position: center;
     filter: brightness(1);
